@@ -14,3 +14,10 @@ my fist project to get data from web
 urllib2
 requests
 ```
+### 网页解析器
+```
+正则表达式 ->模糊化匹配
+html.parser ->
+BeautifulSoup ->结构化解析 DOM(Document Object Model)树
+lxml ->
+```
